@@ -8,11 +8,11 @@
 		<version>3.2.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.model</groupId>
-	<artifactId>Model</artifactId>
+	<groupId>com.transaccion</groupId>
+	<artifactId>TransaccionMS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Model</name>
-	<description>Microservicio para  los POJOS del Proyecto Cuponera Store</description>
+	<name>TransaccionMS</name>
+	<description>Microservicio para  el mantenimiento de las Transacciones</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

@@ -1,13 +1,13 @@
-package com.cuponera.cupon;
+package com.transaccion;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CuponMsApplication {
+public class TransaccionMsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CuponMsApplication.class, args);
+		SpringApplication.run(TransaccionMsApplication.class, args);
 	}
 
 }
